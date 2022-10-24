@@ -1,4 +1,7 @@
-/* https://youtu.be/sS_1SyDqVV8?t=810 */
+; https://youtu.be/sS_1SyDqVV8?t=810 ;
+; nasm command : nasm -f elf32 a32.asm -o a32
+; ld -m elf_i386 a32.o -o a32 
+
 
 bits 32
 
